@@ -1,0 +1,11 @@
+[[template]]
+alias = "ks-tech"
+summary = "basic project structure with rtl and simulation layout"
+path = "template"
+ignore = [
+    "extra/"
+]
+
+
+[env]
+COMPANY = "Kepler Space Tech."
